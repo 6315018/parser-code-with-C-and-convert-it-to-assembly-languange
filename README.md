@@ -88,5 +88,9 @@ int main () // main execute
 
 }
 
-dari code di atas ketika di compile menghasilkan : 
+hasil compile dapat dilihat pada a.jpg b.jpg & c.jpg
+
+
+berikut hasil convert dari bahasa C ke bahasa assembly : 
+
 
