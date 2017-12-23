@@ -253,6 +253,8 @@ di atas merupakan hasil convert dari bahasa C ke bahasa assembly...
 (pada saat pengeditan bahasa assembly pada readme.md ini tersusun rapi, tetapi setelah dilihat kembali bukan dalam mode pengeditan hasilnya berantakan), saya tidak tau penyebabnya apa....
 
 
+![1](https://user-images.githubusercontent.com/32272275/34321162-4347bfbc-e83b-11e7-930d-e21500ac1b90.jpg)
+
 untuk gambar yang jelasnya, silahkan di lihat pada file :
 1.jpg
 2.jpg
