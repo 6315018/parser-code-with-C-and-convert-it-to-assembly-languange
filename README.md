@@ -89,6 +89,11 @@ int main () // main execute
 }
 
 hasil compile dapat dilihat pada a.jpg b.jpg & c.jpg
+![a](https://user-images.githubusercontent.com/32272275/34321177-8c739634-e83b-11e7-9db3-145953f60c1d.jpg)
+
+![b](https://user-images.githubusercontent.com/32272275/34321179-920fa948-e83b-11e7-9514-acf4e9cff406.jpg)
+
+![c](https://user-images.githubusercontent.com/32272275/34321182-98ba1a1c-e83b-11e7-8460-e9a7653e08dc.jpg)
 
 
 berikut hasil convert dari bahasa C ke bahasa assembly : 
