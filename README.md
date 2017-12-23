@@ -90,5 +90,3 @@ int main () // main execute
 
 dari code di atas ketika di compile menghasilkan : 
 
-file:///C:/Users/johannes/Desktop/a.jpg
-
