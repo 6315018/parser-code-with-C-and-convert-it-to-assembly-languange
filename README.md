@@ -1,5 +1,5 @@
 # parser-code-with-C-and-convert-it-to-assembly-languange
-tugas
+
 
 parser adalah suatu code yang dapat digunakan untuk mencari keyword yang tersedia dari inputan yang belum lengkap.
 parser code ini banyak diaplikasikan, seperti untuk mendapatkan keyword yang diinginkan ketika mengetik sesuatu pada kolom search engine seperti google.
@@ -107,6 +107,10 @@ hasil compile dapat dilihat pada a.jpg b.jpg & c.jpg
 ![b](https://user-images.githubusercontent.com/32272275/34321179-920fa948-e83b-11e7-9514-acf4e9cff406.jpg)
 
 ![c](https://user-images.githubusercontent.com/32272275/34321182-98ba1a1c-e83b-11e7-8460-e9a7653e08dc.jpg)
+
+![d](https://user-images.githubusercontent.com/32272275/34321288-e3469d60-e83d-11e7-81aa-4e0ab69eaad7.jpg)
+
+![e](https://user-images.githubusercontent.com/32272275/34321289-e78bf410-e83d-11e7-90a3-61a61aa7d01f.jpg)
 
 
 berikut hasil convert dari bahasa C ke bahasa assembly : 
