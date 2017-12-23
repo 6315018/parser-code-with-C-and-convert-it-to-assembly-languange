@@ -4,6 +4,19 @@ tugas
 parser adalah suatu code yang dapat digunakan untuk mencari keyword yang tersedia dari inputan yang belum lengkap.
 parser code ini banyak diaplikasikan, seperti untuk mendapatkan keyword yang diinginkan ketika mengetik sesuatu pada kolom search engine seperti google.
 parser juga dapat digunakan sebagai translator, misalnya ketika seorang programmer menulis code dengan bahasa C dan ingin menerjemahkannya ke python, metode ini dapat digunakan.
+dari berbagai situs internet yang saya lihat, program parser ini kebanyak menggunakan teks file sebagai keyword nya. dan programnya pun mengolah data yang terdapat pada teks file tersebut.
+
+tetapi disini saya hanya menggunakan 10 keyword yang tersedia, yaitu :
+1.makan
+2.piring
+3.pizza
+4.gelas
+5.gantungan
+6.badak
+7.mobil
+8.sotong
+9.rambutan
+10.asteroid
 
 berikut programnya dalam bahasa C :
 
